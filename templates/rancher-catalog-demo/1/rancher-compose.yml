@@ -10,4 +10,6 @@
     label: "Port Number"
     description: "Which port should  demo-php-app listen on?"
     default: 80
-    required: true 
+    required: true
+demo-php-app-primary:
+  metadata:
