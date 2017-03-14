@@ -5,9 +5,9 @@
   uuid: 0750d868-5e88-4eee-bd15-1e8cca0125ba # Unique identifier to be used for upgrades. Please see note.
   minimum_rancher_version: 1.4.1# The minimum version of Rancher that supports the template
   questions: #Used to request user input for configuration options
-   - variable: "PORT"
-      type: "int"
-      label: "Port Number"
-      description: "Which port should  demo-php-app listen on?"
-      default: 80
-      required: true 
+  - variable: "PORT"
+    type: "int"
+    label: "Port Number"
+    description: "Which port should  demo-php-app listen on?"
+    default: 80
+    required: true 
