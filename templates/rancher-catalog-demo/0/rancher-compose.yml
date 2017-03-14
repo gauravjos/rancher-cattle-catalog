@@ -2,7 +2,7 @@
   name:  demo-php-app # Name of the versioned template of the Catalog Entry
   version:  red # Version of the versioned template of the Catalog Entry
   description: sample demo php app # Description of the versioned template of the Catalog Entry
-  uuid: 0750d868-5e88-4eee-bd15-1e8cca0125ba # Unique identifier to be used for upgrades. Please see note.
+  uuid: demo-php-app-0 # Unique identifier to be used for upgrades. Please see note.
   minimum_rancher_version: 1.4.1# The minimum version of Rancher that supports the template
   questions: #Used to request user input for configuration options
   - variable: "PORT"
