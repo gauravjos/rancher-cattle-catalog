@@ -9,7 +9,5 @@
     description: "Which port should  demo-php-app listen on?"
     default: 80
     required: true
-  output: "this is output"
-  url: "this is url"
 demo-php-app-primary:
   metadata:
