@@ -1,0 +1,4 @@
+demo-php-app-primary:
+  image: "gauravsj/demo-php-app:black"
+  ports:
+    - "${PORT}:80"
